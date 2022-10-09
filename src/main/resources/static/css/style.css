@@ -1,0 +1,9 @@
+.indexPage{
+    background-color: black;
+}
+
+.indexPage>h1{
+    color: white;
+    font-style: italic;
+    text-decoration: red;
+}
